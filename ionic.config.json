@@ -1,0 +1,8 @@
+{
+  "name": "hausenn-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1b35b4f5"
+}
